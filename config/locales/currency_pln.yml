@@ -1,0 +1,10 @@
+---
+currency_PLN:
+  number:
+    currency:
+      format:
+        format: "%n %u"
+        unit: "zł."
+        separator: ","
+        delimiter: " "
+        precision: 2
